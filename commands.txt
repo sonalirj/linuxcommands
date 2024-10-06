@@ -6,3 +6,5 @@ whoami - user
 mkdir - make directory
 touch - create a file
 df -h - to check storage
+
+devops is fun
