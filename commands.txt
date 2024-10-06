@@ -1,0 +1,5 @@
+#Linux commands
+ls
+pwd
+cd
+whoami
