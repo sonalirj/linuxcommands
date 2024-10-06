@@ -5,3 +5,4 @@ cd - change directory
 whoami - user
 mkdir - make directory
 touch - create a file
+df -h
