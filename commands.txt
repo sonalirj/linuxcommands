@@ -8,3 +8,4 @@ touch - create a file
 df -h - to check storage
 
 devops is fun
+Linux is fun
