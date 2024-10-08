@@ -7,7 +7,7 @@ mkdir - make directory
 touch - create a file
 df -h - to check storage
 ln - to create hardlinks
-ln -s -- to create hardlinks
+ln -s -- to create softlinks
 
 devops is fun
 Linux is fun
