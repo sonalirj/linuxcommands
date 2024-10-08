@@ -6,8 +6,8 @@ whoami - user
 mkdir - make directory
 touch - create a file
 df -h - to check storage
-ln - to create hardlinks
-ln -s -- to create softlinks
+ln - to create hardlinks for files only
+ln -s -- to create softlinks for files and directories
 
 devops is fun
 Linux is fun
